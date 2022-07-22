@@ -4,6 +4,7 @@ import { BrowserRouter } from 'react-router-dom';
 import AuthProvider from './contexts/auth';
 import Routes from './routes';
 import { ToastContainer } from 'react-toastify';
+import './assets/favicon.ico'
 
 function App() {
   return (  
